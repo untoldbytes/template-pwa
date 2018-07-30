@@ -1,1 +1,1 @@
-# template-pwa
+# Fast PWA REACT TEMPLATE
